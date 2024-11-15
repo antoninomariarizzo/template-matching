@@ -2,11 +2,13 @@
   <h1 align="center">Template Matching: Detecting Packages on the Shelves
 </p>
 
+###
+
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 [![PEP8](https://img.shields.io/badge/code%20style-pep8-orange.svg)](https://www.python.org/dev/peps/pep-0008/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![GitHub license](https://badgen.net/github/license/Naereen/Strapdown.js)](https://github.com/antoninomariarizzo/template-matching/blob/main/LICENSE)
-###
+
 
 <div style="text-align: center;">
     <img src="resources/examples/execution.gif" alt="Execution Example">
