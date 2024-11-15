@@ -17,7 +17,7 @@
 
 <div style="text-align: center;">
     <img src="resources/examples/result_all.gif" alt="Result with all the templates">
-    <p><em>Fig. 2: Results of the Template Matching method. The shelves in the scene are overlaid with the projected templates, demonstrating the accurate localization of all template instances and the precise estimation of perspective distortions.</em></p>
+    <p><em>Fig. 2: Results of our Template Matching method. The shelves in the scene are overlaid with the projected templates, demonstrating the accurate localization of all template instances and the precise estimation of perspective distortions.</em></p>
 </div>
 
 
