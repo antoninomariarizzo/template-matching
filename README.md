@@ -54,6 +54,8 @@ For example, the results of the analysis using only the four templates shown in 
     <p><em>Fig. 3: Employed templates.</em></p>
 </div>
 
+<br>
+
 <div style="text-align: center;">
     <img src="resources/examples/result_4templates.gif" alt="Result with four templates">
     <p><em>Fig. 4: Result with four templates.</em></p>
