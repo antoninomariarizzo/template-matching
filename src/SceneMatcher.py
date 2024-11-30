@@ -7,11 +7,6 @@ from typing import Tuple, List
 class SceneMatcher:
     """
     Extract and match SIFT features between a scene image and multiple template images.
-    
-    Attributes:
-        scene_img (np.ndarray): The loaded scene image in RGB format.
-        scene_keypoints (List[cv.KeyPoint]): Keypoints extracted from the scene image.
-        scene_descriptors (np.ndarray): Descriptors for keypoints in the scene image.
     """
 
     def __init__(self,
@@ -31,7 +26,7 @@ class SceneMatcher:
         Finds matches between the template image and the scene image using SIFT descriptors.
 
         Parameters:
-        - template_path (str): Path to the template image.
+        - template_path: Path to the template image.
 
         Returns:
         - template_keypoints: Keypoints in the template image
