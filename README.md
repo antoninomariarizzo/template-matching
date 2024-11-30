@@ -1,8 +1,6 @@
 <p align="center">
-  <h1 align="center">Template Matching: Detecting Packages on the Shelves
+  <h1 align="center">Template Matching: Detecting Packages on the Shelves</h1>
 </p>
-
-###
 
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 [![PEP8](https://img.shields.io/badge/code%20style-pep8-orange.svg)](https://www.python.org/dev/peps/pep-0008/)
